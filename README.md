@@ -70,6 +70,7 @@ Typical Python packages used in this project:
 You can fine-tune exact versions in requirements.txt for reproducibility.
 
 ## Project Structure
+```
 LSTM-and-GRU-Predicting-Next-Word/
 │
 ├── data/                      ← dataset(s) used for training
@@ -79,7 +80,7 @@ LSTM-and-GRU-Predicting-Next-Word/
 ├── next_word_prediction_gru.ipynb   ← notebook for GRU approach
 ├── requirements.txt           ← python dependencies
 └── README.md                  ← this file
-
+```
 ## Contributing
 Contributions are very welcome! Feel free to open an Issue if you encounter bugs or want to request new features — for example:
 - Additional dataset support
