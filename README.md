@@ -19,7 +19,7 @@ In this project, you will explore how to build and train RNN-based models to **p
 - Comparing performance and insights between LSTM vs. GRU for next-word prediction  
 - Providing a ready-to-use notebook for experimentation and extension  
 
-This project is ideal if you are learning Natural Language Processing (NLP), sequence modelling, or deep learning architectures for text generation and language modelling. Resources and tutorials show how next-word prediction is a core task in language modelling. :contentReference[oaicite:4]{index=4}
+This project is ideal if you are learning Natural Language Processing (NLP), sequence modelling, or deep learning architectures for text generation and language modelling. Resources and tutorials show how next-word prediction is a core task in language modelling. 
 
 ## What’s Included  
 Here’s what you’ll find in the repository (adjust if necessary):  
@@ -70,7 +70,6 @@ Typical Python packages used in this project:
 You can fine-tune exact versions in requirements.txt for reproducibility.
 
 ## Project Structure
-rust
 LSTM-and-GRU-Predicting-Next-Word/
 │
 ├── data/                      ← dataset(s) used for training
