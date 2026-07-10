@@ -1,5 +1,5 @@
 # LSTM-and-GRU-Predicting-Next-Word
-A hands-on project demonstrating next-word prediction using Recurrent Neural Networks (RNNs) — specifically the Long Short‑Term Memory (LSTM) and Gated Recurrent Unit (GRU) architectures — implemented in Python with Jupyter Notebooks.
+A hands-on project demonstrating next-word prediction using Recurrent Neural Networks (RNNs) specifically the Long Short‑Term Memory (LSTM) and Gated Recurrent Unit (GRU) architectures implemented in Python with Jupyter Notebooks.
 
 ## Table of Contents
 - [About](#about)  
