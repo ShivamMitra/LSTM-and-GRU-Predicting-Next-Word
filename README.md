@@ -23,13 +23,13 @@ This project is ideal if you are learning Natural Language Processing (NLP), seq
 
 ## What’s Included  
 Here’s what you’ll find in the repository (adjust if necessary):  
-- `next_word_prediction_lstm.ipynb` — Notebook implementing next-word prediction using LSTM  
-- `next_word_prediction_gru.ipynb` — Notebook implementing next-word prediction using GRU  
-- `data/` — Placeholder folder (or actual) containing text dataset(s) used for modelling  
-- `models/` — (Optional) Folder to save trained model weights/checkpoints  
-- `utils.py` — Helper functions for preprocessing, tokenisation, sequence creation  
-- `requirements.txt` — Python dependencies  
-- `README.md` — This file  
+- `next_word_prediction_lstm.ipynb` - Notebook implementing next-word prediction using LSTM  
+- `next_word_prediction_gru.ipynb` - Notebook implementing next-word prediction using GRU  
+- `data/` - Placeholder folder (or actual) containing text dataset(s) used for modelling  
+- `models/` - (Optional) Folder to save trained model weights/checkpoints  
+- `utils.py` - Helper functions for preprocessing, tokenisation, sequence creation  
+- `requirements.txt` - Python dependencies  
+- `README.md` - This file  
 
 ## Getting Started  
 To get up and running:
