@@ -96,4 +96,4 @@ To contribute:
 - Open a Pull Request with a clear description of your changes.
 
 ## License
-This project is licensed under the MIT License (or whichever you prefer) — see the LICENSE file for details.
+This project is licensed under the MIT License (or whichever you prefer) see the LICENSE file for details.
